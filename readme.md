@@ -1,4 +1,5 @@
 # Laravel PHP Framework
+[![Deploy to DO](http://67.205.151.140/img/button.png)](http://67.205.151.140/github?url=https://github.com/poush/new/blob/master/app.json)
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
 [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
